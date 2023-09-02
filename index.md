@@ -7,3 +7,6 @@
 let j = 0;
 while (j++ < 5) console.log(j); // 1,2,3,4,5
 ```
+- [ ] Learn Asynchronous JavaScript
+- [ ] Work with APIs
+- [ ] Introduce myself to the world
